@@ -14,6 +14,10 @@
 
 ---
 
+- [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html)
+
+---
+
 - Part1 分析実務とKaggle
   - Chap.1 実務に必要なスキル
       - 1.1 データサイエンティストという職業

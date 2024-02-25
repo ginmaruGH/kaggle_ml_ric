@@ -1,6 +1,7 @@
 # user settings >>>
 SampleScript*/
 *.code-workspace
+titanic/
 # user settings <<<
 
 # Byte-compiled / optimized / DLL files
