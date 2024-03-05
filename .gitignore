@@ -2,6 +2,7 @@
 SampleScript*/
 *.code-workspace
 titanic/
+home-credit-default-risk/
 # user settings <<<
 
 # Byte-compiled / optimized / DLL files
