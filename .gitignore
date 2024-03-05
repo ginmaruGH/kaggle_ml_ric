@@ -3,6 +3,7 @@ SampleScript*/
 *.code-workspace
 titanic/
 home-credit-default-risk/
+mlb-player-digital-engagement-forecasting/
 # user settings <<<
 
 # Byte-compiled / optimized / DLL files
